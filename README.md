@@ -1,12 +1,25 @@
-# React + Vite
+# 3D Virtual Museum Tour
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**A modern and interactive web-based platform that allows users to explore a virtual museum in 3D. Built using React, React Three Fiber, and Blender-modeled assets, the experience simulates a real museum tour with intuitive controls, immersive visuals, and dynamic artwork information.
 
-Currently, two official plugins are available:
+🚀 Features
+	•	🧭 First-person movement (WASD controls + mouse look)
+	•	🖼️ 3D museum environment created in Blender
+	•	ℹ️ Popup info on approaching paintings
+	•	💡 Directional lighting to enhance realism
+	•	📱 Responsive layout for modern browsers
+	•	🔐 Login/Signup system with subscription flowA modern and interactive web-based platform that allows users to explore a virtual museum in 3D. Built using React, React Three Fiber, and Blender-modeled assets, the experience simulates a real museum tour with intuitive controls, immersive visuals, and dynamic artwork information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
+	•	🧭 First-person movement (WASD controls + mouse look)
+	•	🖼️ 3D museum environment created in Blender
+	•	ℹ️ Popup info on approaching paintings
+	•	💡 Directional lighting to enhance realism
+	•	📱 Responsive layout for modern browsers
+	•	🔐 Login/Signup system with subscription flow**
 
-## Expanding the ESLint configuration
+ To use it download the files
+then open VS code terminal and Write "npm install"
+then npm start
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
